@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     width: 1875.516px;
+   
 }
 .b1{
     border: none;
@@ -11,6 +12,7 @@ body{
     color: white;
 }
 .d1{
+    
     display: flex;
     gap: 50px;
 }
@@ -27,6 +29,8 @@ body{
    
 }
 .d2{
+     position: relative;
+   z-index: 1;
     display: flex;
     padding: 20px 200px;
     justify-content: space-between;
@@ -36,14 +40,18 @@ body{
   color: #002265;font-size: 70px;
 }
 .d3{
+
     display: flex;
     padding: 30px 100px;
     justify-content: space-evenly;
 }
 .d4{
+     position: relative;
+   z-index: 1;
   padding: 40px 60px;
     box-shadow: 0 0 15px  rgb(205, 203, 203);
     border-radius: 10px;
+   
 }
 .hh1{
     padding: 15x 0px;
@@ -52,6 +60,7 @@ body{
     font-size: 20px;
 }
 .d5{
+  
    display: flex;
     padding: 30px 100px;
     justify-content: space-evenly;
@@ -59,6 +68,7 @@ body{
 
 }
 .d6{
+    
     box-shadow: 0 0 15px  rgb(205, 203, 203);
     width: 447px;
     height: 320px;
@@ -66,6 +76,7 @@ body{
 
 }
 .d7{
+    
 display: flex;
 padding: 20px 200px;
 justify-content: space-evenly;
