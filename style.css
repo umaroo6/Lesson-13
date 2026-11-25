@@ -1,7 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
     width: 1875.516px;
-   
+   background-color: white;
+   position: relative;
+   z-index: 1;
 }
 .b1{
     border: none;
@@ -46,7 +48,8 @@ body{
     justify-content: space-evenly;
 }
 .d4{
-     position: relative;
+     background-color: white;
+   position: relative;
    z-index: 1;
   padding: 40px 60px;
     box-shadow: 0 0 15px  rgb(205, 203, 203);
@@ -60,7 +63,9 @@ body{
     font-size: 20px;
 }
 .d5{
-  
+   background-color: white;
+   position: relative;
+   z-index: 1;
    display: flex;
     padding: 30px 100px;
     justify-content: space-evenly;
